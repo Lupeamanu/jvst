@@ -1,0 +1,18 @@
+# Directories
+Include/
+Lib/
+Scripts/
+
+# Python ignores
+*.pyc
+
+# Venv
+*.cfg
+
+# Diagrams
+*.dot
+*.puml
+*.png
+
+TODO.md
+*.db
